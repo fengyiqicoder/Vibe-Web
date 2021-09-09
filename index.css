@@ -12,11 +12,11 @@
     }
 
     h2 {
-        font-size: 40px;
+        font-size: 60px;
     }
 
     h3 {
-        font-size: 30px;
+        font-size: 50px;
     }
 
     .icon {
@@ -25,6 +25,10 @@
 
     .downloadImage {
         width: 60%;
+    }
+
+    p {
+       font-size: 40px;
     }
 }
 
